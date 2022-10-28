@@ -152,7 +152,7 @@ report.docx.
 2. Загрузим файлы на github.
 
 
-![Загрузим файлы на github]
+![Загрузим файлы на github](image/11.png){#fig:011 width=95%}
 
 
 # Выводы
